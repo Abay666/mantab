@@ -1,0 +1,2 @@
+# mantab
+safelink2
